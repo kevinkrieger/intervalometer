@@ -1,0 +1,7 @@
+gerbers.zip
+gerbers/
+*obj
+*.o
+src/intervalometer.X/dist/
+src/intervalometer.X/build/
+

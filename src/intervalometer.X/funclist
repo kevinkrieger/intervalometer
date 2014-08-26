@@ -1,0 +1,14 @@
+_takepicture: CODE, 420 0 20
+_ConfigureOscillator: CODE, 503 0 1
+_main: CODE, 178 0 69
+_display_interval: CODE, 342 0 44
+_prepare_for_sleep: CODE, 497 0 6
+_InitApp: CODE, 247 0 51
+__initialization: CODE, 19 0 6
+_increment_interval: CODE, 476 0 11
+_isr: CODE, 440 0 20
+_set_interval_s: CODE, 28 0 150
+_eeprom_read: CODE, 386 0 34
+_store_interval: CODE, 487 0 10
+_eeprom_write: CODE, 298 0 44
+Total: 466

@@ -1,0 +1,206 @@
+Cmp-Mod V01 Created by CvPcb (2013-05-18 BZR 4017)-stable date = Mon 11 Aug 2014 22:34:59 CST
+
+BeginCmp
+TimeStamp = /53E9801A;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = S2B-PH-SM4-TB;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9CC56;
+Reference = C1;
+ValeurCmp = 10u;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9767D;
+Reference = C2;
+ValeurCmp = 0.1u;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E98EDD;
+Reference = C3;
+ValeurCmp = 20p;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E98EEA;
+Reference = C4;
+ValeurCmp = 20p;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9C7FE;
+Reference = C5;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9C594;
+Reference = C6;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9768C;
+Reference = D1;
+ValeurCmp = LED1;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9769F;
+Reference = D2;
+ValeurCmp = LED2;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E97699;
+Reference = D3;
+ValeurCmp = LED3;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E99BE1;
+Reference = J1;
+ValeurCmp = 3.5MMJACK;
+IdModule  = 3.5mmJack_Sparkfun;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E98029;
+Reference = P1;
+ValeurCmp = PWR;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9D30F;
+Reference = P2;
+ValeurCmp = IO1;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9CED8;
+Reference = P3;
+ValeurCmp = IO2;
+IdModule  = pin_array_4x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9766E;
+Reference = R1;
+ValeurCmp = 330R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E98928;
+Reference = R2;
+ValeurCmp = 330R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9892E;
+Reference = R3;
+ValeurCmp = 330R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9A92F;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E98BFA;
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9A0F5;
+Reference = R6;
+ValeurCmp = 470R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9A102;
+Reference = R7;
+ValeurCmp = 470R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E976A7;
+Reference = SW1;
+ValeurCmp = ~INTERVAL_SELECT;
+IdModule  = SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E98493;
+Reference = SW2;
+ValeurCmp = PWR;
+IdModule  = MMS1208;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9BD64;
+Reference = SW3;
+ValeurCmp = Half_Press;
+IdModule  = SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9BD6A;
+Reference = SW4;
+ValeurCmp = Shutter;
+IdModule  = SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E97FD4;
+Reference = U1;
+ValeurCmp = PIC16F88;
+IdModule  = DIP-18__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E97633;
+Reference = U2;
+ValeurCmp = LTV_816_Half_Press;
+IdModule  = DIP_4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E97640;
+Reference = U3;
+ValeurCmp = LTV_816_Shutter;
+IdModule  = DIP_4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E98ECE;
+Reference = X1;
+ValeurCmp = 4MHz;
+IdModule  = HC-49V;
+EndCmp
+
+EndListe
